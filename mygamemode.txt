@@ -1,0 +1,10 @@
+"mygamemode"
+{
+
+	"base"		"base"
+	"title"		"My Gamemode"
+	"maps"		"^gm_"
+	"menusystem"	"1"
+	"workshopid"	""
+
+}
